@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analytics and Machine learning**
 
-- 💬 Ask me about **Javascript, C++**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **mohdehtishamansari06@gmail.com**
 
