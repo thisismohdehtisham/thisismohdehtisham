@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Ehtisham Ansari</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Web project**
-
 - 🌱 I’m currently learning **Data Analytics and Machine learning**
 
 - 💬 Ask me about **Web Development**
