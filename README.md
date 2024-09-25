@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Ehtisham Ansari</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisismohdehtisham&label=Profile%20views&color=0e75b6&style=flat" alt="thisismohdehtisham" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisismohdehtisham" alt="thisismohdehtisham" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/themohdehtisham" target="blank"><img src="https://img.shields.io/twitter/follow/themohdehtisham?logo=twitter&style=for-the-badge" alt="themohdehtisham" /></a> </p>
-
 - 🔭 I’m currently working on **Web project**
 
 - 🌱 I’m currently learning **Data Analytics and Machine learning**
